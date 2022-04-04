@@ -293,14 +293,14 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-phone"></i>
          <h3>phone number</h3>
-         <p>+123-456-7890</p>
-         <p>+111-222-3333</p>
+         <p>+91 7018100275</p>
+         <p>+91 1234567890</p>
       </div>
       
       <div class="box">
          <i class="fas fa-map-marker-alt"></i>
          <h3>our address</h3>
-         <p>mumbai, india - 400104</p>
+         <p>Gagret Una Himachal Pradesh Pin-177201</p>
       </div>
 
       <div class="box">
@@ -312,13 +312,13 @@ if(isset($_POST['submit'])){
       <div class="box">
          <i class="fas fa-envelope"></i>
          <h3>email address</h3>
-         <p>shaikhanas@gmail.com</p>
-         <p>anasbhai@gmail.com</p>
+         <p>dhadhwalkeshav@gmail.com</p>
+         <p>dixitdadhwal48610@gmail.com</p>
       </div>
 
    </div>
 
-   <div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>mr. web designer</span>  </div>
+   <div class="credit"> &copy; copyright @ <?php echo date('Y'); ?> by <span>Mr.Keshav Dadhwal</span>  </div>
 
 </section>
 
